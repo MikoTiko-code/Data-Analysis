@@ -33,7 +33,7 @@ Open to internship and Junior Data Analyst opportunities.
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 - Python (Pandas, NumPy, Matplotlib)
@@ -81,15 +81,15 @@ Developed backend logic, designed database structure, implemented expense catego
 # Certifications | Сертификаты
 
 - Google Data Analytics Certificate (in progress)
-- SQL for Data Analysis
-- Power BI Fundamentals
+- Data Analyst Certificate (Outpeer.kz)
+- “Python Generation”: a course for beginners (Stepik)
 
 ---
 
 # Contact | Контакты
 
-- LinkedIn: (add link)
-- Email: (add email)
+- LinkedIn: https://www.linkedin.com/in/merei-tanirbergen-521167384/
+- Email: merei4922h@gmail.com
 
 ---
 
