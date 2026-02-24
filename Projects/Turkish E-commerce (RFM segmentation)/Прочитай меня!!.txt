@@ -1,0 +1,5 @@
+capstone_by_Merei.pbix - это визуализация из файла ecommerce_with_segments.csv
+ecommerce_with_segments.csv - это датасет с добавленными сегментами клиентов после выполнения кодов Python.
+Capstone_by_Merei.ipynb - это блок кода из Google Coolaboratory.
+ecommerce_customer_behavior_dataset_v2.csv - это оригинальный датасет скачанный из Kaggle. 
+Ссылка на датасет: https://www.kaggle.com/datasets/umuttuygurr/e-commerce-customer-behavior-and-sales-analysis-tr?utm_source=chatgpt.com&select=ecommerce_dataset_readme_v_2.md
