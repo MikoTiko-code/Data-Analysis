@@ -18,7 +18,7 @@ Data Analyst | Python • SQL • Power BI | BI &amp; Financial Analytics
 
 ---
 
-## 🇬🇧 About Me
+## ENG About Me
 
 Aspiring Data Analyst focused on data analysis, business intelligence, and dashboard development.  
 Major in Information Systems.
