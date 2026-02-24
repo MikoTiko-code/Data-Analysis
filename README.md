@@ -47,12 +47,10 @@ Open to internship and Junior Data Analyst opportunities.
 
 ### Databases
 - MySQL
-- PostgreSQL
 
 ### Tools
 - Jupyter Notebook
 - Google Colab
-- Git & GitHub
 
 ---
 
@@ -67,14 +65,7 @@ ENG:
 Data cleaning and preprocessing, RFM customer segmentation, interactive Power BI dashboard development.  
 Identified high-value customer groups.
 
----
 
-## Personal Finance Analytics App (Backend)
-RU:  
-Разработка backend-логики, проектирование базы данных, реализация категоризации расходов.
-
-ENG:  
-Developed backend logic, designed database structure, implemented expense categorization.
 
 ---
 
@@ -82,7 +73,7 @@ Developed backend logic, designed database structure, implemented expense catego
 
 - Google Data Analytics Certificate (in progress)
 - Data Analyst Certificate (Outpeer.kz)
-- “Python Generation”: a course for beginners (Stepik)
+- “Python Generation”: a course for beginners (in progress)(Stepik.org)
 
 ---
 
